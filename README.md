@@ -10,7 +10,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/moulidharan g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moulidharan g" height="30" width="40" /></a>
 <a href="https://instagram.com/mouli_dharan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mouli_dharan_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/moulidharan g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="moulidharan g" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/moulidharansrv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="moulidharan g" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/gmoulidharan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gmoulidharan" height="30" width="40" /></a>
 </p>
 
